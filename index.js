@@ -11,7 +11,7 @@
   num2 =  parseFloat(prompt("Enter the second number: "))
 
 
-    if (operator === "+" ) {
+    if (operator === "+") {
         result =  num1 + num2   
     }
 
